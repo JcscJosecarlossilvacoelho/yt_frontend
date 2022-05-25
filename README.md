@@ -10,7 +10,7 @@ React, chakra-ui, vite, axios
 
 ## 📖 Screenshot
 
-
+![Logo](https://user-images.githubusercontent.com/44404484/170303762-35237b6d-15ab-4485-b600-f4f539ac6895.png)
 
 
 ## Instalação
